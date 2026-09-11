@@ -1,4 +1,5 @@
 Calculator Module
 Addition
 Subtraction
-
+Multiplication
+Division
